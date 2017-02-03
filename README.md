@@ -1,10 +1,12 @@
 # 团队目标 #
-Administers discuss and set Team Goals in this repository
+此账户由七月在线翻译组创建并维护，团队目标如下：
+
 ## 文章翻译 ##
-* DL papers
-* * 鼓励翻译组将翻译项目移植到团队目录下
-* * 训练翻译组使用Bitbucket以及Git
+### DL papers ###
+* 鼓励翻译组将翻译项目移植到团队目录下
+* 帮助翻译组熟悉使用git(BitBucket and GitHub)
+* 推广翻译成果
 
 ## 测试团队项目 ##
-* 项目班可以采取这种方式鼓励学生动手发起/参与项目(public repository)
+* 教学班借助此平台鼓励学生动手发起/参与项目，留作业
 * 结合七月论坛，壮大七月社区
