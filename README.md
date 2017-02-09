@@ -10,3 +10,6 @@
 ## 测试团队项目 ##
 * 教学班借助此平台鼓励学生动手发起/参与项目，留作业
 * 结合七月论坛，壮大七月社区
+
+## Resources ##
+* 使用GitHub进行团队合作: http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/
